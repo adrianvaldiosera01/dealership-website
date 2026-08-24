@@ -67,7 +67,7 @@ const vehicleExtras = {
   },
   
   '1005': {
-  exteriorColor: 'Orange',
+  exteriorColor: 'Red',
   interiorColor: 'Gray / Beige',
   financingAvailable: true,
   photos: Array.from({ length: 16 }, (_, index) =>
